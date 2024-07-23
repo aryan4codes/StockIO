@@ -1,6 +1,9 @@
 # StockIO: Real-Time Stock Market Data Streaming and Analysis with Kafka and AWS
 *StockIO is a real-time data streaming solution designed to process and analyze stock market data using Apache Kafka and AWS services.*
 
+![Architecture Design](https://github.com/user-attachments/assets/75976cef-ac0b-4b1e-aa2b-fe987bc02cd4)
+
+
 ## Project Overview
 
 StockIO is a real-time streaming application that simulates stock market data and processes it using Apache Kafka and various AWS services.
@@ -44,7 +47,6 @@ The project architecture is designed to handle real-time stock market data and p
 5. **AWS Glue**: Crawls the data in S3 to create a metadata catalog.
 6. **Amazon Athena**: Queries and analyzes the data stored in S3.
 
-![Architecture Design](https://github.com/user-attachments/assets/75976cef-ac0b-4b1e-aa2b-fe987bc02cd4)
 
 
 ## How to Run the Project
