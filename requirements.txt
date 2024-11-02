@@ -1,0 +1,9 @@
+streamlit
+boto3
+pandas
+plotly
+yfinance
+kafka-python
+s3fs
+ta
+streamlit-authenticator
